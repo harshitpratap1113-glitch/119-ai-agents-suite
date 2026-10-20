@@ -1,0 +1,6 @@
+# AI Agent Ecosystem - Core Dependencies
+google-genai>=0.1.1
+
+# Optional Multi-Provider Support:
+# openai>=1.0.0          # Required for OpenAI and OpenRouter fallback
+# anthropic>=0.18.0      # Required for Claude fallback
