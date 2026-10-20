@@ -13,8 +13,8 @@ An open-source, modular collection of **119 specialized AI agents** organized ac
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/harshitpratap1113-glitch/ai-agent-ecosystem.git
-cd ai-agent-ecosystem
+git clone https://github.com/harshitpratap1113-glitch/119-ai-agents-suite.git
+cd 119-ai-agents-suite
 pip install -r requirements.txt
 ```
 
